@@ -1,0 +1,12 @@
+Name:  LeftKidney
+Label: 43
+    count: 123288
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1001.24
+    sigma: 7566.09
+    variance: 5.72457e+07
+    sum: 1.23441e+08
+    region: index(286, 288, 1) size(101, 66, 43)
+    bounding box: (286, 386) (288, 353) (1, 43) 

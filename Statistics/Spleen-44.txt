@@ -1,0 +1,12 @@
+Name:  Spleen
+Label: 44
+    count: 83076
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 2170.4
+    sigma: 11490.5
+    variance: 1.32032e+08
+    sum: 1.80308e+08
+    region: index(285, 272, 31) size(139, 91, 32)
+    bounding box: (285, 423) (272, 362) (31, 62) 

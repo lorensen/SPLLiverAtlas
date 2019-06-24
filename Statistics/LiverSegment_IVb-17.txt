@@ -1,0 +1,12 @@
+Name:  LiverSegment_IVb
+Label: 17
+    count: 62469
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 4713.92
+    sigma: 16843.5
+    variance: 2.83703e+08
+    sum: 2.94474e+08
+    region: index(122, 134, 13) size(125, 145, 48)
+    bounding box: (122, 246) (134, 278) (13, 60) 

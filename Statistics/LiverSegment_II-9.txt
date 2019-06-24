@@ -1,0 +1,12 @@
+Name:  LiverSegment_II
+Label: 9
+    count: 109008
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 2823.27
+    sigma: 13179.4
+    variance: 1.73696e+08
+    sum: 3.07759e+08
+    region: index(202, 134, 47) size(120, 115, 17)
+    bounding box: (202, 321) (134, 248) (47, 63) 

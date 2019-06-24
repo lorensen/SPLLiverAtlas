@@ -1,0 +1,12 @@
+Name:  Stomach
+Label: 41
+    count: 211308
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 7114.49
+    sigma: 20314.8
+    variance: 4.12693e+08
+    sum: 1.50335e+09
+    region: index(211, 149, 22) size(161, 158, 40)
+    bounding box: (211, 371) (149, 306) (22, 61) 

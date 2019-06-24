@@ -1,0 +1,12 @@
+Name:  MiddleHepaticVein_and_Branches
+Label: 5
+    count: 8938
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 812.411
+    sigma: 6953.46
+    variance: 4.83506e+07
+    sum: 7.26133e+06
+    region: index(116, 180, 18) size(107, 76, 44)
+    bounding box: (116, 222) (180, 255) (18, 61) 

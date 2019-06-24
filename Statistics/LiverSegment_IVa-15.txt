@@ -1,0 +1,12 @@
+Name:  LiverSegment_IVa
+Label: 15
+    count: 127635
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1909.83
+    sigma: 10879.5
+    variance: 1.18363e+08
+    sum: 2.43762e+08
+    region: index(122, 133, 43) size(117, 130, 27)
+    bounding box: (122, 238) (133, 262) (43, 69) 

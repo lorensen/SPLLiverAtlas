@@ -1,0 +1,12 @@
+Name:  IVC
+Label: 1
+    count: 44577
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 4012.76
+    sigma: 15545.4
+    variance: 2.41658e+08
+    sum: 1.78877e+08
+    region: index(199, 233, 1) size(51, 66, 69)
+    bounding box: (199, 249) (233, 298) (1, 69) 

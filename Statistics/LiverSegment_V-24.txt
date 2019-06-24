@@ -1,0 +1,12 @@
+Name:  LiverSegment_V
+Label: 24
+    count: 204362
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 3380.2
+    sigma: 14387
+    variance: 2.06986e+08
+    sum: 6.90784e+08
+    region: index(69, 159, 1) size(152, 111, 37)
+    bounding box: (69, 220) (159, 269) (1, 37) 

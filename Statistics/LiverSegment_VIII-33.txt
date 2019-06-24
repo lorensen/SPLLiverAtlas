@@ -1,0 +1,12 @@
+Name:  LiverSegment_VIII
+Label: 33
+    count: 188449
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 2600.63
+    sigma: 12682.1
+    variance: 1.60836e+08
+    sum: 4.90085e+08
+    region: index(69, 160, 35) size(155, 112, 35)
+    bounding box: (69, 223) (160, 271) (35, 69) 

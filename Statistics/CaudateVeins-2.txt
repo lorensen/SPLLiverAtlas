@@ -1,0 +1,12 @@
+Name:  CaudateVeins
+Label: 2
+    count: 1044
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1876.61
+    sigma: 10763.8
+    variance: 1.15859e+08
+    sum: 1.95918e+06
+    region: index(219, 244, 38) size(25, 19, 12)
+    bounding box: (219, 243) (244, 262) (38, 49) 

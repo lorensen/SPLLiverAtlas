@@ -1,0 +1,12 @@
+Name:  LeftHepaticVein_and_Branches
+Label: 4
+    count: 7356
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 943.403
+    sigma: 7543.71
+    variance: 5.69076e+07
+    sum: 6.93967e+06
+    region: index(190, 153, 45) size(60, 96, 17)
+    bounding box: (190, 249) (153, 248) (45, 61) 

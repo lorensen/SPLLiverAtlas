@@ -1,0 +1,12 @@
+Name:  RightHepaticVein_and_Branches
+Label: 6
+    count: 14757
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1553.17
+    sigma: 9750.26
+    variance: 9.50677e+07
+    sum: 2.29201e+07
+    region: index(108, 239, 5) size(110, 80, 56)
+    bounding box: (108, 217) (239, 318) (5, 60) 

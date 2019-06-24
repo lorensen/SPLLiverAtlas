@@ -1,0 +1,12 @@
+Name:  LiverSegment_VI
+Label: 12
+    count: 199078
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 5157.33
+    sigma: 17561.1
+    variance: 3.08393e+08
+    sum: 1.02671e+09
+    region: index(70, 254, 1) size(150, 103, 32)
+    bounding box: (70, 219) (254, 356) (1, 32) 

@@ -1,0 +1,12 @@
+Name:  Aorta
+Label: 45
+    count: 27397
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 689.403
+    sigma: 6143.23
+    variance: 3.77392e+07
+    sum: 1.88876e+07
+    region: index(244, 276, 1) size(30, 37, 69)
+    bounding box: (244, 273) (276, 312) (1, 69) 

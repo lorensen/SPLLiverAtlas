@@ -1,0 +1,12 @@
+Name:  LiverSegment_III
+Label: 10
+    count: 50749
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 5133.31
+    sigma: 17519.9
+    variance: 3.06947e+08
+    sum: 2.6051e+08
+    region: index(202, 129, 29) size(96, 106, 18)
+    bounding box: (202, 297) (129, 234) (29, 46) 

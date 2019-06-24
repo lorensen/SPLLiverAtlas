@@ -1,0 +1,12 @@
+Name:  RightPortalVein_and_Branches
+Label: 8
+    count: 26877
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1054.49
+    sigma: 7944.05
+    variance: 6.31079e+07
+    sum: 2.83416e+07
+    region: index(91, 176, 2) size(125, 161, 64)
+    bounding box: (91, 215) (176, 336) (2, 65) 

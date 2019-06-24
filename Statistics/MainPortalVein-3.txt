@@ -1,0 +1,12 @@
+Name:  MainPortalVein
+Label: 3
+    count: 8787
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 5764.21
+    sigma: 18406.1
+    variance: 3.38785e+08
+    sum: 5.06501e+07
+    region: index(190, 239, 27) size(189, 75, 19)
+    bounding box: (190, 378) (239, 313) (27, 45) 

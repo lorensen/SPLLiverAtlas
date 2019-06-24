@@ -1,0 +1,12 @@
+Name:  LiverSegment_VII
+Label: 26
+    count: 257626
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 4524.13
+    sigma: 16526.3
+    variance: 2.73119e+08
+    sum: 1.16553e+09
+    region: index(69, 235, 33) size(147, 122, 35)
+    bounding box: (69, 215) (235, 356) (33, 67) 

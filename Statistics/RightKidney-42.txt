@@ -1,0 +1,12 @@
+Name:  RightKidney
+Label: 42
+    count: 87180
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1181.19
+    sigma: 8288.93
+    variance: 6.87064e+07
+    sum: 1.02976e+08
+    region: index(130, 281, 1) size(89, 73, 33)
+    bounding box: (130, 218) (281, 353) (1, 33) 

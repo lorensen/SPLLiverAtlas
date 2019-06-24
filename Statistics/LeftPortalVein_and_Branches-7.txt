@@ -1,0 +1,12 @@
+Name:  LeftPortalVein_and_Branches
+Label: 7
+    count: 13166
+    min: 0
+    max: 65535
+    median: 127.998
+    mean: 1233.89
+    sigma: 8627.85
+    variance: 7.44398e+07
+    sum: 1.62454e+07
+    region: index(140, 145, 40) size(142, 95, 17)
+    bounding box: (140, 281) (145, 239) (40, 56) 
